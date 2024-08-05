@@ -1,0 +1,23 @@
+{
+	"AllowedHosts": "*",
+	"Logging": {
+		"LogLevel": {
+			"Default": "Information",
+			"Microsoft.AspNetCore": "Warning"
+		}
+	},
+	"Dashboard": {
+		"apiBaseUrl": "https://test.chillidb.com/ChilliDB_Main/",
+		"systemId": "ChilliDB_Main",
+		"systemUser": "",
+		"systemPassword": "",
+		"apiMaxMessageSize": 1048576,
+		"apiTimeOutSeconds": 600,
+		"membershipPackageIds": [ 10, 11, 42 ],
+		"DataEntityId": [ 961 ]
+	}
+}
+
+
+
+	

@@ -1,0 +1,12 @@
+﻿[*.{cs,vb,js,jsx,ts,tsx,css,scss,less,json,eslintrc,html}]
+indent_style = tab
+indent_size = 4
+tab_width = 4
+end_of_line = crlf
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.{cs,md}]
+spelling_languages = en-au,en-us
+spelling_checkable_types = strings,identifiers,comments
+spelling_error_severity = warning

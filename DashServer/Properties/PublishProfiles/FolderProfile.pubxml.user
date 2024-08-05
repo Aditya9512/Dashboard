@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Projects\Dashboard\Dashboard\server</_PublishTargetUrl>
+    <History>True|2023-05-22T05:28:48.6460722Z;True|2023-05-22T15:09:02.7212111+10:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Connected Services/ChilliDBApi.MembershipManager/ConnectedService.json">
+      <publishTime>05/30/2023 16:07:32</publishTime>
+    </File>
+    <File Include="Connected Services/ChilliDBApi.MembershipManager/Reference.cs">
+      <publishTime>05/30/2023 16:07:32</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
